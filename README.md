@@ -1,1 +1,1 @@
-# Water_target_setter
+# Daily_Water_intake_target_setter
