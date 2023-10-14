@@ -44,6 +44,6 @@ function updateBigCup() {
         remained.style.height = 0
     } else {
         remained.style.visibility = 'visible'
-        liters.innerText = `${8 - (1 * fullCups )}L`
+        liters.innerText = `${2 - (1 * fullCups )}L`
     }
 }
