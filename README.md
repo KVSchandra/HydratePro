@@ -1,2 +1,2 @@
-# Daily_Water_intake_target_setter
+# HydratePro
 https://kvschandra.github.io/Water_target_setter/
